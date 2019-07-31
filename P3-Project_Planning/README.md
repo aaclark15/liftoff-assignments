@@ -8,12 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Wireframes files are included in my repository. Link below.
 
 ### Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Link to my Trello tracker - https://trello.com/b/hdEZIXjc/home-redecorator
 
 ### Project Repo Link
-
-(Include a link to your project on GitHub)
+My Repository for my Capstone project - 
+https://github.com/aaclark15/Liftoff.git
